@@ -6,7 +6,7 @@ CS Engineering student building toward fullstack development + UI/UX design.
 - ⚡ Secretary, ACM Student Chapter
 - 🔭 Currently building projects around web apps and gamified UX
 - 🌱 I’m currently learning - javascript and python
-- 📫 Reach me: [Email me] (fathimasuhana195@gmail.com) • [Let's connect!](www.linkedin.com/in/fathima-suhana-e-b-)
+- 📫 Reach me: [Email me](fathimasuhana195@gmail.com) • [Let's connect!](www.linkedin.com/in/fathima-suhana-e-b-)
 ---
 
 **Tech I use:**
