@@ -1,4 +1,4 @@
-## ### Hi, I'm Suhana 👋
+### Hi, I'm Suhana 👋
 
 CS Engineering student building toward fullstack development + UI/UX design.
 
